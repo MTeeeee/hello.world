@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"95be769ecfd3266d","x":-240,"y":-620,"width":400,"height":400,"type":"file","file":"Wissensdatenbanken/Wissensdatenbanken.md"},
+		{"id":"d0de0fcd563a5c4b","type":"text","text":"OneNote","x":380,"y":-270,"width":250,"height":50},
+		{"id":"351e52df5932d342","x":-720,"y":-100,"width":400,"height":400,"type":"file","file":"Wissensdatenbanken/Notion Vorstellung.md"},
+		{"id":"0842a3cd34a5b7d3","x":-240,"y":-100,"width":400,"height":400,"type":"file","file":"Wissensdatenbanken/Obsidian Vorstellung.md"}
+	],
+	"edges":[]
+}

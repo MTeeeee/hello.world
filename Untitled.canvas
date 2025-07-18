@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"63bea54f01e0d371","x":-125,"y":-30,"width":145,"height":60,"type":"text","text":"Mindmap"},
+		{"id":"ca6c19ba5e98c15a","x":140,"y":-30,"width":250,"height":60,"type":"text","text":"ist cool"},
+		{"id":"f94442c744c0554d","x":-385,"y":100,"width":260,"height":240,"type":"text","text":"zu verspielt"},
+		{"id":"af9fc9ece57e2926","x":200,"y":260,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"5d188bccebda608e","fromNode":"63bea54f01e0d371","fromSide":"right","toNode":"ca6c19ba5e98c15a","toSide":"left"},
+		{"id":"b7a868371e898d9c","fromNode":"f94442c744c0554d","fromSide":"right","toNode":"af9fc9ece57e2926","toSide":"left"},
+		{"id":"ba3e268f80efc176","fromNode":"63bea54f01e0d371","fromSide":"bottom","toNode":"f94442c744c0554d","toSide":"top"},
+		{"id":"097a375b4699ce7d","fromNode":"af9fc9ece57e2926","fromSide":"top","toNode":"ca6c19ba5e98c15a","toSide":"bottom"}
+	]
+}

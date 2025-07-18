@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"97adfec7857d8ec6","type":"text","text":"MindMap","x":-200,"y":-320,"width":250,"height":60},
+		{"id":"8f3b9ecbd8bc0634","type":"file","file":"02_Promts/Email Promt.md","x":-475,"y":-140,"width":400,"height":400},
+		{"id":"087f017704d1140e","type":"file","file":"02_Promts/Projektplanungs Promt.md","x":-40,"y":-140,"width":400,"height":400},
+		{"id":"4497ef46f60ea801","type":"file","file":"02_Promts/Smiley.md","x":400,"y":-140,"width":400,"height":400},
+		{"id":"a85a7c9a03459552","type":"file","file":"02_Promts/Pasted image 20250717113357.png","x":-475,"y":360,"width":301,"height":400},
+		{"id":"ebbd6d4bb2f31931","type":"file","file":"Recording 20250717115129.m4a","x":460,"y":-319,"width":400,"height":118}
+	],
+	"edges":[
+		{"id":"9b9fd7b05041d4a8","fromNode":"97adfec7857d8ec6","fromSide":"bottom","toNode":"8f3b9ecbd8bc0634","toSide":"top"},
+		{"id":"aa4cd9afc97b6e5c","fromNode":"97adfec7857d8ec6","fromSide":"bottom","toNode":"087f017704d1140e","toSide":"top"}
+	]
+}
